@@ -1,0 +1,1 @@
+{"name":"maatsii-linreg-ta","displayName":"Maatsii LinReg MCP","version":"1.0.0","description":"Cursor plugin wrapper for Maatsii LinReg MCP: 200 live TradingView fan charts, 64-setup playbook, 11-section MTF TA.","publisher":"maatsii","homepage":"https://mcp.maatsii.com/mcp","license":"MIT","icon":"assets/logo.svg","mcpServers":{"maatsii":{"url":"https://mcp.maatsii.com/mcp"}}}
